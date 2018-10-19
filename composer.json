@@ -1,6 +1,6 @@
 {
-    "name": "danielstjules/stringy",
-    "description": "A string manipulation library with multibyte support",
+    "name": "DaviMenezes/corda",
+    "description": "A string manipulation library with multibyte support (fork)",
     "keywords": [
         "multibyte", "string", "manipulation", "utility", "methods", "utf-8",
         "helpers", "utils", "utf"
