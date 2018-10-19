@@ -1,5 +1,5 @@
 {
-    "name": "DaviMenezes/corda",
+    "name": "dvi/corda",
     "description": "A string manipulation library with multibyte support (fork)",
     "keywords": [
         "multibyte", "string", "manipulation", "utility", "methods", "utf-8",
